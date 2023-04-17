@@ -46,6 +46,8 @@ dependencies:
   google_sign_in: ^6.0.2
   cloud_firestore: ^4.4.5
   smooth_page_indicator: ^1.0.1
+  hover_effect: ^0.6.0
+  cunning_document_scanner: ^1.1.2
 
 dev_dependencies:
   auto_route_generator: ^6.0.0
